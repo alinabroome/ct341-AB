@@ -1,0 +1,16 @@
+/* Typography */
+h1, h2 {
+    font-family: 'Yeseva One', cursive;
+    font-size: 30px;
+    color: #DC143C;
+}
+
+p, a {
+    font-family: 'Raleway', sans-serif;
+    font-size: 15px; 
+    color: #333333;
+}
+
+/* Layout */
+
+/* Media */
